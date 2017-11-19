@@ -1,7 +1,7 @@
 ### A visualization that analyzes the relationship between mean daily temperature and daily electricity demand in Toronto
 ***
 ## Graph
-![graph][graph.png]
+![graph](graph.png)
 
 ## Data Sources
 * Electricity demand data from [IESO](http://www.ieso.ca/en/power-data/data-directory) (Demands -> Zonal demands -> ZonalDemands_2003-2016)
